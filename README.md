@@ -47,7 +47,7 @@ It demonstrates the critical importance of using authenticated scans to reveal d
 
 ## 📝 Phase 3: Authenticated Scan
 ✅ **Modifying to an Authenticated Scan in Tenable:**  
-[11- Modifying to a Authenticated Scan](https://github.com/user-attachments/assets/e904b588-985f-4e60-a506-6eb01eb0ba78)
+![11- Modifying to a Authenticated Scan](https://github.com/user-attachments/assets/e904b588-985f-4e60-a506-6eb01eb0ba78)
 
 ✅ **Adding the VM Credential for Authenticated Scan:** 
 ![12- Adding the Credentials for a Authenticated Scans](https://github.com/user-attachments/assets/b6f8f083-7963-45e3-ba44-21aaba230291)
