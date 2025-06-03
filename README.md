@@ -29,8 +29,8 @@ It demonstrates the critical importance of using authenticated scans to reveal d
 
 ## 📝 Phase 2: Unauthenticated Scan
 ✅ **Scan Setup in Tenable:**  
-(![4- Creating a Basic Scan in Tenable](https://github.com/user-attachments/assets/e65efcf7-e47d-4ac7-b62e-dd21c48279e4)
-) ![5- Editing the Unauthenticated Scan for a Internal Scan](https://github.com/user-attachments/assets/ca9433b0-0f77-4ce8-b5f8-5a474f42c62a)
+![4- Creating a Basic Scan in Tenable](https://github.com/user-attachments/assets/e65efcf7-e47d-4ac7-b62e-dd21c48279e4)
+ ![5- Editing the Unauthenticated Scan for a Internal Scan](https://github.com/user-attachments/assets/ca9433b0-0f77-4ce8-b5f8-5a474f42c62a)
   ![6- Targeting the private IP from the VM](https://github.com/user-attachments/assets/5de6cb22-f2f5-4bff-afd5-50737229dd09)
   ✅ **Editing in the Discovery page to Custom, and enabling a fast network discovery:**
   ![7- Editing the Discovery page to Custom, and enabling a fast network discovery](https://github.com/user-attachments/assets/6f05294b-0d97-427e-b30b-6e056f6f5618)
@@ -38,9 +38,9 @@ It demonstrates the critical importance of using authenticated scans to reveal d
 ![8- Initiating Unauthenticated Scan](https://github.com/user-attachments/assets/9422b42c-0156-434e-bd8c-67451062adb1)
 
 ✅ **Scan Results:**  
-[9- Results from Unauthenticated Scan](https://github.com/user-attachments/assets/076395b0-3433-4f62-bc72-0838aa612454)
+![9- Results from Unauthenticated Scan](https://github.com/user-attachments/assets/02d38629-e94a-40b6-9ecf-2a515a4b5d09)
+![10- Results Exported](https://github.com/user-attachments/assets/c2d05f6d-a4e9-456e-9a14-c05479dbf654)
 
-[10- Results Exported](https://github.com/user-attachments/assets/e00518b2-4013-4e34-83e8-88eddd616405)
 
 
 ---
