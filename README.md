@@ -19,7 +19,8 @@ It demonstrates the critical importance of using authenticated scans to reveal d
 
 ## 📝 Phase 1: VM Creation and Environment Setup
 ✅ **Created a Windows 10 VM** in Azure.  
-![Created VM](./screenshots/1- Created VM Windows 10.png)
+![Created VM]![1- Created VM Windows 10](https://github.com/user-attachments/assets/2b6ef14b-5b2e-4a85-9918-d00c37218091)
+
 
 ✅ **Disabled Windows Firewall** to allow scanning of internal services.  
 ![Firewall Disabled](./screenshots/2- Disabled Firewall inisde the VM.PNG)
@@ -76,10 +77,4 @@ Authenticated scans provide a more accurate view of system vulnerabilities and s
 
 ---
 
-## 🐍 Python Script
-We created a script to **compare scan outputs** and identify common or unique vulnerabilities.  
-Run it with:
 
-```bash
-pip install -r requirements.txt
-python compare_scans.py
