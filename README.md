@@ -22,8 +22,8 @@ It demonstrates the critical importance of using authenticated scans to reveal d
 ![Created VM]![1- Created VM Windows 10](https://github.com/user-attachments/assets/2b6ef14b-5b2e-4a85-9918-d00c37218091)
 
 
-✅ **Disabled Windows Firewall** to allow scanning of internal services.  
-![Firewall Disabled](./screenshots/2- Disabled Firewall inisde the VM.PNG)
+✅ **Disabled Windows Firewall Inside VM** to allow scanning of internal services.  
+![Firewall Disabled]![2- Disabled Firewall inisde the VM](https://github.com/user-attachments/assets/21b311a4-bbde-457a-ab61-63ddc67735fc)
 
 ---
 
